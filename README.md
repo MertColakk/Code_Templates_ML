@@ -25,8 +25,7 @@ In this section, you'll find the necessary steps to run the project in a local e
 
 ### Prerequisites
 
-Specify the prerequisites for the project here. For example:
-- Python 3.6+
+- Python 3.6+ or
 - Jupyter Notebook
 - Python libraries like Pandas, NumPy, and scikit-learn
 
