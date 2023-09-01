@@ -1,7 +1,5 @@
 # Data Processing and Machine Learning Code Templates
 
-![Project Image](project_image.png) <!-- You can add an image related to your project here -->
-
 > A collection of code templates for data processing and machine learning tasks. Speed up your projects with these foundational templates.
 
 ---
@@ -35,34 +33,33 @@ Specify the prerequisites for the project here. For example:
 ## Code Templates
 
 Handling missing data with SimpleImputer
-  Encoding categorical data with LabelEncoder and OneHotEncoder
+  - Encoding categorical data with LabelEncoder and OneHotEncoder
   
 Regression Models
-  Linear Regression
-  Polynomial Regression
-  Decision Tree Regression
-  Random Forest Regression
-  Support Vector Regression
+  - Linear Regression
+  - Polynomial Regression
+  - Decision Tree Regression
+  - Random Forest Regression
+  - Support Vector Regression
 
 Classification Models
-  Logistic Regression
-  Decision Tree Classification
-  Random Forest Classification
-  KNN
-  Naive Bayes
-  SVM
+  - Logistic Regression
+  - Decision Tree Classification
+  - Random Forest Classification
+  - KNN
+  - Naive Bayes
+  - SVM
   Kernel SVM
   
 Clustering Models
-  Hierarchical Clustering
-  K-Means Clustering
+  - Hierarchical Clustering
+  - K-Means Clustering
 
 Deep Learning and Other Models
-
 Association Rule Learning
-  Apriori
-  Eclat
+  - Apriori
+  - Eclat
 
 Deep Learning
-  Upper Confidence Bound (UCB)
-  Natural Language Processing(NLP)
+  - Upper Confidence Bound (UCB)
+  - Natural Language Processing(NLP)
